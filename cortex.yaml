@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Sample Plugin
+  description: ""
+  x-cortex-tag: sample-plugin
+  x-cortex-git:
+    github:
+      repository: cremerica/sample-plugin
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2023-11-10T16:03:05.805065990
